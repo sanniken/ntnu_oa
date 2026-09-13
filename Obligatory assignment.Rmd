@@ -1,0 +1,26 @@
+---
+title: "SPRÅK8887"
+author: "Anniken Størdal"
+date: "`r Sys.Date()`"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Obligatory assingment 14/09/2026 
+
+ _Is Trøndersk Norwegian changing as a result of depalatalization?_ 
+
+The research question above will be approached through analysis of data which I hope to collect this autumn. If I am not able to collect enough real data, I still want to analyse data similar to the real data I will analyse once I have collected it. 
+
+The data will be collected through a survey which will collect the following:
+
+* Linguistic background of the participants (age, gender identity, origin of their dialect, where they currently live, languages spoken (and if Norwegian is their first language), etc.). 
+* Language attitudes. The participants answer on a Likert Scale how much they agree or disagree with a number of statements to collect some information about their attitude towards their own dialect of Norwegian. 
+* 61 words containing consonants which traditionally have been palatalized, the participants. 20 /l/, 20 /n/, 20 /t, d/ and whether they say _ikke_ or _itj_. 
+
+The data will be analysed using mixed methods to look at the relation between the self-reported palatalization and the various other factors (i.e., linguistic background and attitudes). The survey results will provide some information regarding the perceived stability of palatalization in Trøndersk. Variation in the self-reported use of palatalized forms of the words is interesting, and if it is possible to look at this in relation to several different factors, this can show if there are any patterns, both expected (such younger people have more variation, more likely to not palatalize) and unexpected patterns. 
+
+(Look over this agian before uploading it anywhere!)
